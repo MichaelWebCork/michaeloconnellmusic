@@ -11,6 +11,14 @@
         I write a tonne of music, some of which I decide to sing, and record by myself. This is a place for that music.
       </p>
 			<SocialButtons />
+			<div class="flex flex-row mt-5 flex-wrap">
+				<a target="_blank" href="https://open.spotify.com/artist/1U2kwOerqO1ARTFYCZXhJB" class="btn">Listen on Spotify</a>
+				<a target="_blank" href="https://michaeloc.bandcamp.com/" class="btn">Listen on BandCamp</a>
+				<a target="_blank" href="https://soundcloud.com/michaeloconnellmusic" class="btn">Listen on SoundCloud</a>
+			</div>
 		</div>
 	</div>
+</div>
+<div class="aspect-w-16 aspect-h-9">
+  <iframe src="https://www.youtube.com/embed/4yERp9_Tdt4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>

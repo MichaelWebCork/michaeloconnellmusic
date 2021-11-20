@@ -6,9 +6,9 @@
 	</div>
 	<div class="flex-none px-2 mx-2 lg:flex">
 		<div class="flex items-stretch flex-col md:flex-row" >
-			<a href="/a-week-alone-epk" class="btn btn-ghost btn-sm rounded-btn">
+			<!-- <a href="/a-week-alone-epk" class="btn btn-ghost btn-sm rounded-btn">
 				a week alone EPK
-			</a>
+			</a> -->
 			<a href="/contact" class="btn btn-ghost btn-sm rounded-btn">
 				Contact
 			</a>

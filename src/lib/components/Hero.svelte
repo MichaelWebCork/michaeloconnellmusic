@@ -8,13 +8,9 @@
 			<h2 class="mb-5 text-4xl font-bold">Michael O'Connell</h2>
 			<p class="mb-5">
         👋 Hey, I'm Michael O'Connell. I play in two bands, Factotem and Keep Sketch, in which I am both a drummer and a songwriter.
-        I write a tonne of music, some of which I decide to sing, and record by myself.
+        I write a tonne of music, some of which I decide to sing, and record by myself. This is a place for that music.
       </p>
-			<p class="mb-8">
-        This is my genral EPK, there are also release specific EPKs. Currently, I am gearing up to release "a week alone", my newest 2 track ep.
-      </p>
-			<a href="/a-week-alone-epk" class="btn btn-outline mb-5">Go to latest release EPK</a><br>
-      <SocialButtons />
+			<SocialButtons />
 		</div>
 	</div>
 </div>

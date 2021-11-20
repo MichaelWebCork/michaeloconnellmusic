@@ -13,7 +13,7 @@
 <div class="p-6 bg-base-200 rounded-lg mb-2">
   <h2 class="mb-5 text-1md font-bold">My social media links:</h2>
   <SocialButtons/>
-  <ol class="mt-5 ml-10 mb-5 list-decimal">
+  <ol class="mt-5 ml-10 mb-5 list-decimal break-words">
     <li>Facebook - <a class="link" target="_blank" href="https://facebook.com/michaeloconnellmusic/">https://facebook.com/michaeloconnellmusic/</a></li>
     <li>Instagram - <a class="link" target="_blank" href="https://www.instagram.com/michaeloconnellmusic/">https://www.instagram.com/michaeloconnellmusic/</a></li>
     <li>YouTube - <a class="link" target="_blank" href="https://www.youtube.com/channel/UCFR0JYHigNA57sqzJL_SBTg">https://www.youtube.com/channel/UCFR0JYHigNA57sqzJL_SBTg</a></li>

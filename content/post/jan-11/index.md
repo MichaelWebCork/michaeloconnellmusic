@@ -9,7 +9,7 @@ tags = [
   "mocdaily",
   "music production"
 ]
-image = "jan-11.png"
+image = "jan-11.jpg"
 +++
 
 {{< youtube 1FERlKp6CVQ >}}

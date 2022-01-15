@@ -1,7 +1,7 @@
 +++
 author = "Michael"
 title = "Jan 14th - Writing a bass line for yesterdays song"
-date = "2022-01-13"
+date = "2022-01-14"
 categories = [
   "dailypost",
 ]

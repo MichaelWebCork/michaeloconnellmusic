@@ -1,7 +1,7 @@
 +++
 author = "Michael"
 title = "Feb 6th - Another new idea today based off of two write that downs"
-date = "2022-02-05"
+date = "2022-02-06"
 categories = [
   "dailypost",
 ]

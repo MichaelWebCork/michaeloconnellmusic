@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 9th - Came up with a bit of a chorus for the song I've been on the last few days"
 date = "2022-02-09"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

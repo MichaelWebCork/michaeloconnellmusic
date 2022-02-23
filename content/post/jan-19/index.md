@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 19th - Tabbing out Factotems Monogamy Queen for Factotem's singer and our new guitar player"
 date = "2022-01-19"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

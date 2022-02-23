@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 11th, Day 2 That Same New Song Continued"
 date = "2022-01-11"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

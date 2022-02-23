@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 26th - Working on some drum parts today, video corrupted so sound is all we have"
 date = "2022-01-26"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

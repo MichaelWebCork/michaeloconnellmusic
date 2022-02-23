@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 17th - No new music today, but heres a bit of a write up about playing a wedding"
 date = "2022-02-17"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

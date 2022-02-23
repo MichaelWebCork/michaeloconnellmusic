@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 31st - The finished version of the song I've been working on minus bass and lyrics"
 date = "2022-01-31"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 2nd - More Musescore today, learning how to add two voices, Factotem's Mood Ring"
 date = "2022-02-02"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

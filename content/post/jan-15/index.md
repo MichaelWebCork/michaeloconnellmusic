@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 15th - I played some drums with Factotem today for the first time in months"
 date = "2022-01-15"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

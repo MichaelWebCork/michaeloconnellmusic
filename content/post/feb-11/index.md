@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 11th - All parts finished just missing lyrics"
 date = "2022-02-11"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 25th - Working on a new song, changing a riff that I had up to work with this song"
 date = "2022-01-25"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

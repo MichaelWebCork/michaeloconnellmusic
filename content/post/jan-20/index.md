@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 20th - More musescore, tabbing out some more parts to Factotem's It's Called 'Flux'"
 date = "2022-01-20"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

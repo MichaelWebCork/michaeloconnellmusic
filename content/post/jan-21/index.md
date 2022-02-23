@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 21st - Today I worked on a vocal melody and bit of lyrics for a song I've been writing"
 date = "2022-01-21"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

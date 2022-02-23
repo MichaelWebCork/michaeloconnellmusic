@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 4th - New song with Campo, very early stages"
 date = "2022-02-04"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

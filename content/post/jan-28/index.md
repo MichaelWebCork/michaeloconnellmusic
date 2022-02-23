@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 28th - More Factotem practice today with the lads"
 date = "2022-01-28"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 8th - Yesterdays song continues working title cant you wait to kill me"
 date = "2022-02-08"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

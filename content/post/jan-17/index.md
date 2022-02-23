@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 17th - Trying ideas over what is shaping up to be a sort of bridge"
 date = "2022-01-17"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

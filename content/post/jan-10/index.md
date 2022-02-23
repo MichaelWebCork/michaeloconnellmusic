@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 10th, Day 1 of mocdaily"
 date = "2022-01-10"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

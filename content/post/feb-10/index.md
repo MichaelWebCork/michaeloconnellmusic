@@ -3,7 +3,7 @@ author = "Michael"
 title = "Feb 10th - Added lyrics to chorus and added a post chorus idea"
 date = "2022-02-10"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

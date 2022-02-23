@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 13th - The beginnings of a new song, writing music"
 date = "2022-01-13"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

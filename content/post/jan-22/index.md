@@ -3,7 +3,7 @@ author = "Michael"
 title = "Jan 22nd - Relearning Factotem songs Today, and teaching the chords to our singer"
 date = "2022-01-22"
 categories = [
-  "dailypost",
+  "dailyposts",
 ]
 tags = [
   "mocdaily",

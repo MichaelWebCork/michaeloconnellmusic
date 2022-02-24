@@ -9,7 +9,7 @@ tags = [
   "mocdaily",
   "songwriting"
 ]
-image = "feb-23.jpg"
+image = "feb-24.jpg"
 +++
 
 <iframe style="border: 0; width: 100%; height: 120px;" src="https://bandcamp.com/EmbeddedPlayer/album=535037396/size=large/bgcol=ffffff/linkcol=0687f5/tracklist=false/artwork=small/track=732794775/transparent=true/" seamless><a href="https://michaeloc.bandcamp.com/album/mocdaily-music-in-progress">#mocdaily - music in progress by Michael O&#39;Connell</a></iframe>
